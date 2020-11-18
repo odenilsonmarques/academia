@@ -43,18 +43,6 @@ INSERT INTO `alunos` (`id`, `nome`, `matricula`, `endereco`, `telefone`, `email`
 	(15, 'alandia kelly', NULL, NULL, '98981601005', 'alania@gmail.com', NULL, '2020-11-16 00:39:11', NULL, NULL);
 /*!40000 ALTER TABLE `alunos` ENABLE KEYS */;
 
--- Copiando estrutura para tabela db_academia_pdo.avaliacoes
-CREATE TABLE IF NOT EXISTS `avaliacoes` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `aluno_id` int(11) NOT NULL,
-  `avaliador_id` int(11) NOT NULL,
-  `data_avaliacao` date NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `FK_avaliacoes_alunos` (`aluno_id`),
-  KEY `FK_avaliacoes_avaliadores` (`avaliador_id`),
-  CONSTRAINT `FK_avaliacoes_alunos` FOREIGN KEY (`aluno_id`) REFERENCES `alunos` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_avaliacoes_avaliadores` FOREIGN KEY (`avaliador_id`) REFERENCES `avaliadores` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Copiando dados para a tabela db_academia_pdo.avaliacoes: ~0 rows (aproximadamente)
 /*!40000 ALTER TABLE `avaliacoes` DISABLE KEYS */;
@@ -73,6 +61,20 @@ CREATE TABLE IF NOT EXISTS `avaliadores` (
 -- Copiando dados para a tabela db_academia_pdo.avaliadores: ~0 rows (aproximadamente)
 /*!40000 ALTER TABLE `avaliadores` DISABLE KEYS */;
 /*!40000 ALTER TABLE `avaliadores` ENABLE KEYS */;
+
+-- Copiando estrutura para tabela db_academia_pdo.avaliacoes
+CREATE TABLE IF NOT EXISTS `avaliacoes` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `aluno_id` int(11) NOT NULL,
+  `avaliador_id` int(11) NOT NULL,
+  `data_avaliacao` date NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `FK_avaliacoes_alunos` (`aluno_id`),
+  KEY `FK_avaliacoes_avaliadores` (`avaliador_id`),
+  CONSTRAINT `FK_avaliacoes_alunos` FOREIGN KEY (`aluno_id`) REFERENCES `alunos` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_avaliacoes_avaliadores` FOREIGN KEY (`avaliador_id`) REFERENCES `avaliadores` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 
 -- Copiando estrutura para tabela db_academia_pdo.pagamentos
 CREATE TABLE IF NOT EXISTS `pagamentos` (
