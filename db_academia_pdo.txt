@@ -1,0 +1,131 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+Theme<|||>1<|||>Windows
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr Variable Foreground<|||>3<|||>8388736
+FieldColor_Binary<|||>3<|||>8388736
+FieldColor_Datetime<|||>3<|||>128
+FieldColor_Numeric<|||>3<|||>16711680
+FieldColor_Other<|||>3<|||>32896
+FieldColor_Real<|||>3<|||>16711752
+FieldColor_Spatial<|||>3<|||>8421376
+FieldColor_Text<|||>3<|||>32768
+UpdatecheckLastrun<|||>1<|||>2020-11-20 15:07:09
+LastUsageStatisticCall<|||>1<|||>2020-10-28 10:25:42
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,252
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+querymemoheight<|||>3<|||>442
+MainWinLeft<|||>3<|||>202
+MainWinTop<|||>3<|||>65
+MainWinWidth<|||>3<|||>1038
+MainWinMaximized<|||>3<|||>1
+FileDialogEncoding_MainForm<|||>3<|||>0
+SessionManager_WindowLeft<|||>3<|||>323
+SessionManager_WindowTop<|||>3<|||>137
+dbtreewidth<|||>3<|||>260
+SQLFile0<|||>1<|||>D:\od\conosultas.sql
+SQLFile1<|||>1<|||>D:\od\agenda\agenda.sql
+SQLFile2<|||>1<|||>C:\Users\EDUAMBIENTAL\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-11-18_09-59-02-524.sql
+SQLFile3<|||>1<|||>C:\xampp\htdocs\academia\db_academia_pdo.sql
+SQLFile4<|||>1<|||>D:\od\agenda.sql
+SQLFile5<|||>1<|||>C:\Users\EDUAMBIENTAL\Desktop\od\bd_oficina.sql
+SQLFile6<|||>1<|||>C:\Users\EDUAMBIENTAL\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-10-29_09-36-59-586.sql
+SQLFile7<|||>1<|||>C:\Users\EDUAMBIENTAL\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-10-29_09-20-51-179.sql
+Servers\Unnamed\SessionCreated<|||>1<|||>2020-08-26 16:36:57
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>8
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>8
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.4.13-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>10
+Servers\Unnamed\ServerVersion<|||>3<|||>100413
+Servers\Unnamed\LastConnect<|||>1<|||>2020-11-20 15:59:59
+Servers\Unnamed\lastUsedDB<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>1
+Servers\Unnamed\QueryHistory\4<|||>1<|||>2020-10-29 09:22:28|agenda|609|-- Copiando estrutura para tabela agenda.contatos<{{{><}}}>CREATE TABLE IF NOT EXISTS `contatos` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `nome` varchar(150) NOT NULL,<{{{><}}}>  `telefone` varchar(45) NOT NULL,<{{{><}}}>  `email` varchar(100) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`)<{{{><}}}>) ENGINE=InnoDB AUTO_INCREMENT=52 DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2020-10-29 09:22:50|agenda|407|INSERT INTO `contatos` (`id`, `nome`, `telefone`, `email`) VALUES<{{{><}}}>	(14, 'Alandia', '98981601009', 'odmarquesgm@gmail.com'),<{{{><}}}>	(15, 'Alandia', '98981601009', 'odmarquesregm@gmail.com'),<{{{><}}}>	(16, 'odenilson marques araújo', '98981601009', 'bia@hotmail.com'),<{{{><}}}>	(17, 'odenilson', '98999926891', 'odmarquesgm@gmail.com'),<{{{><}}}>	(22, 'odenilson marques araújo', '98981601009', 'frkkmarques@gmail.com'),<{{{><}}}>	(24, 'daniel', '98981601009', 'daniel@gmail.com'),<{{{><}}}>	(41, 'Henrique', '98981601001', 'henrique@gmail.com'),<{{{><}}}>	(42, 'Polyene', '98988921347', 'polyene@gmail.com'),<{{{><}}}>	(43, 'Davi', '98981601000', 'davi@gmail.com'),<{{{><}}}>	(44, 'jorge', '98988921325', 'jorge@gmail.com'),<{{{><}}}>	(45, 'Bianca silva', '98981504989', 'biaengecomp@gmail.com'),<{{{><}}}>	(49, 'Leidiane', '(98) 6 5485-8555', 'leide@gmail.com'),<{{{><}}}>	(50, 'araujo', '(98) 7 2187-1728', 'araujo@gmail.com'),<{{{><}}}>	(51, 'valquiria', '(98) 2 7182-1782', 'val@gmaill.com')
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2020-10-29 09:23:42|agenda|0|SELECT *FROM contatos
+Servers\Unnamed\QueryHistory\6<|||>1<|||>2020-10-29 09:38:22|agenda|375|CREATE TABLE IF NOT EXISTS `users` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `name` varchar(150) NOT NULL,<{{{><}}}>  `email` varchar(45) NOT NULL,<{{{><}}}>  `password` varchar(100) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`)<{{{><}}}>) ENGINE=InnoDB AUTO_INCREMENT=52 DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\8<|||>1<|||>2020-10-29 09:49:48|agenda|110|INSERT INTO users (name,email,password) VALUES<{{{><}}}>	('odenilosn','odmarquesgm@gmail.com','123456789')
+Servers\Unnamed\QueryHistory\9<|||>1<|||>2020-10-29 09:49:57|agenda|0|SELECT *FROM users
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2020-11-18 09:54:59||16|-- Copiando estrutura do banco de dados para db_academia_pdo<{{{><}}}>CREATE DATABASE IF NOT EXISTS `db_academia_pdo` /*!40100 DEFAULT CHARACTER SET utf8mb4 */
+Servers\Unnamed\QueryHistory\11<|||>1<|||>2020-11-18 09:55:25|db_academia_pdo|422|-- Copiando estrutura para tabela db_academia_pdo.alunos<{{{><}}}>CREATE TABLE IF NOT EXISTS `alunos` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `nome` varchar(100) NOT NULL,<{{{><}}}>  `matricula` varchar(45) DEFAULT NULL,<{{{><}}}>  `endereco` varchar(100) DEFAULT NULL,<{{{><}}}>  `telefone` varchar(45) NOT NULL,<{{{><}}}>  `email` varchar(45) DEFAULT NULL,<{{{><}}}>  `data_nascimento` date DEFAULT NULL,<{{{><}}}>  `data_inscricao` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),<{{{><}}}>  `peso` decimal(16,2) DEFAULT NULL,<{{{><}}}>  `altura` decimal(16,2) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`)<{{{><}}}>) ENGINE=InnoDB AUTO_INCREMENT=24 DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\12<|||>1<|||>2020-11-18 09:56:28||375|-- Copiando estrutura para tabela db_academia_pdo.avaliadores<{{{><}}}>CREATE TABLE IF NOT EXISTS `avaliadores` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `nome` varchar(100) NOT NULL,<{{{><}}}>  `endereco` varchar(100) DEFAULT NULL,<{{{><}}}>  `telefone` varchar(45) NOT NULL,<{{{><}}}>  `email` varchar(45) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`)<{{{><}}}>) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\13<|||>1<|||>2020-11-18 09:56:58||516|-- Copiando estrutura para tabela db_academia_pdo.avaliacoes<{{{><}}}>CREATE TABLE IF NOT EXISTS `avaliacoes` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `aluno_id` int(11) NOT NULL,<{{{><}}}>  `avaliador_id` int(11) NOT NULL,<{{{><}}}>  `data_avaliacao` date NOT NULL,<{{{><}}}>  PRIMARY KEY (`id`),<{{{><}}}>  KEY `FK_avaliacoes_alunos` (`aluno_id`),<{{{><}}}>  KEY `FK_avaliacoes_avaliadores` (`avaliador_id`),<{{{><}}}>  CONSTRAINT `FK_avaliacoes_alunos` FOREIGN KEY (`aluno_id`) REFERENCES `alunos` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,<{{{><}}}>  CONSTRAINT `FK_avaliacoes_avaliadores` FOREIGN KEY (`avaliador_id`) REFERENCES `avaliadores` (`id`) ON DELETE CASCADE ON UPDATE CASCADE<{{{><}}}>) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\14<|||>1<|||>2020-11-18 09:57:23||453|-- Copiando estrutura para tabela db_academia_pdo.pagamentos<{{{><}}}>CREATE TABLE IF NOT EXISTS `pagamentos` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `aluno_id` int(11) NOT NULL,<{{{><}}}>  `valor` decimal(16,2) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`),<{{{><}}}>  KEY `FK_pagamentos_alunos` (`aluno_id`),<{{{><}}}>  CONSTRAINT `FK_pagamentos_alunos` FOREIGN KEY (`aluno_id`) REFERENCES `alunos` (`id`) ON DELETE CASCADE ON UPDATE CASCADE<{{{><}}}>) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\15<|||>1<|||>2020-11-18 09:58:53||188|INSERT INTO `alunos` (`id`, `nome`, `matricula`, `endereco`, `telefone`, `email`, `data_nascimento`, `data_inscricao`, `peso`, `altura`) VALUES<{{{><}}}>	(1, ' odenilson araujo', '969906', 'rua teste', '1111111111111111', 'odmarquesgm@gmail.com', '2020-11-18', '2020-11-16 16:09:17', 60.03, 1.60),<{{{><}}}>	(2, 'bianca maria', '896712', 'rua m, qd 12', '98981061009', 'bia@hotmail.com', '1990-06-15', '2020-11-14 20:42:43', 60.00, 1.67),<{{{><}}}>	(3, 'calebe', NULL, NULL, '(98) 9 8106-1009', 'calebe@hotmail.com', NULL, '2020-11-16 00:27:26', NULL, NULL),<{{{><}}}>	(4, 'leandro', NULL, NULL, '98981601009', 'leandro@gmail.com', NULL, '2020-11-16 00:33:08', NULL, NULL),<{{{><}}}>	(13, 'walderez marques', NULL, NULL, '(98) 9 8106-1009', 'waldams@hotmail.com', NULL, '2020-11-16 00:36:30', NULL, NULL),<{{{><}}}>	(14, 'gabs', NULL, NULL, '98999926891', 'gabsteste@gmail.com', NULL, '2020-11-16 00:36:54', NULL, NULL),<{{{><}}}>	(15, 'alandia kelly', NULL, NULL, '98981601005', 'alania@gmail.com', NULL, '2020-11-16 00:39:11', NULL, NULL)
+Servers\Unnamed\QueryHistory\16<|||>1<|||>2020-11-18 09:59:22||0|SELECT *FROM alunos
+Servers\Unnamed\QueryHistory\17<|||>1<|||>2020-11-19 09:33:00||15|-- Copiando estrutura do banco de dados para agenda<{{{><}}}>CREATE DATABASE IF NOT EXISTS `agenda` /*!40100 DEFAULT CHARACTER SET utf8mb4 */
+Servers\Unnamed\QueryHistory\7<|||>1<|||>2020-11-19 09:33:08|agenda|0|USE `agenda`
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2020-11-19 09:33:13|agenda|578|-- Copiando estrutura para tabela agenda.contatos<{{{><}}}>CREATE TABLE IF NOT EXISTS `contatos` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `nome` varchar(150) NOT NULL,<{{{><}}}>  `telefone` varchar(45) NOT NULL,<{{{><}}}>  `email` varchar(100) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`)<{{{><}}}>) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\18<|||>1<|||>2020-11-19 09:33:23||453|INSERT INTO `contatos` (`id`, `nome`, `telefone`, `email`) VALUES<{{{><}}}>	(1, 'OSVALDO CANUTO DE ARAUJO', '(98) 9 9992-6891', 'cearafotos@hotmail.com'),<{{{><}}}>	(2, 'WALDEREZ MARQUES SANTOS', '(98) 9 8892-1345', 'waldams@hotmail.com'),<{{{><}}}>	(3, 'OSVANILSON MARQUES ARAUJO', '(98) 9 8740-2728', ''),<{{{><}}}>	(4, 'ANA PATRICIA MARQUES ARAUJO', '(98) 9 8826-5309', ''),<{{{><}}}>	(5, 'ODENILSON MARQUES ARAUJO', '(98) 9 8106-1009', 'odmarquesgm@gmail.com')
+Servers\Unnamed\QueryHistory\19<|||>1<|||>2020-11-19 09:33:32||375|-- Copiando estrutura para tabela agenda.users<{{{><}}}>CREATE TABLE IF NOT EXISTS `users` (<{{{><}}}>  `id` int(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>  `name` varchar(100) NOT NULL,<{{{><}}}>  `email` varchar(200) NOT NULL,<{{{><}}}>  `password` varchar(100) NOT NULL,<{{{><}}}>  `remember_token` varchar(100) DEFAULT NULL,<{{{><}}}>  PRIMARY KEY (`id`)<{{{><}}}>) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4
+Servers\Unnamed\QueryHistory\20<|||>1<|||>2020-11-19 09:33:44||78|INSERT INTO `users` (`id`, `name`, `email`, `password`, `remember_token`) VALUES<{{{><}}}>	(1, 'Odenilson Marques', 'odmarquesgm@gmail.com', '$2y$10$DeWCni/cwAC9LXWiUasx/ugEatmV0.GKczPopqfl6JGF26PuE3cy.', NULL)
+Servers\Unnamed\QueryHistory\21<|||>1<|||>2020-11-20 16:00:11|db_academia_pdo|0|USE `db_academia_pdo`
+Servers\Unnamed\QueryHistory\10<|||>1<|||>2020-11-20 16:07:13|db_academia_pdo|0|SELECT *FROM pagamentos
+Servers\Unnamed\QueryHistory\22<|||>1<|||>2020-11-20 16:09:32|db_academia_pdo|328|ALTER TABLE pagamentos ADD data_pagamento DATE NOT NULL 
