@@ -2,16 +2,16 @@
 include 'config.php';
 ?>
 <h1>pagamento</h1>
-
 <form action="recebeActionPagamento.php" method="POST">
-
     <label>ALUNO</label><br/>
     <select name="aluno">
+    <option>SELECIONE O ALUNO</option>
         <?php
             $listaAlunos = [];
-            $queryBuscaAluno = $conexaoPDO->query("SELECT * FROM  alunos");
+            $queryBuscaAluno = $conexaoPDO->query("SELECT * FROM alunos");
             if($queryBuscaAluno->rowCount() > 0){
                 $listaAlunos = $queryBuscaAluno->fetchAll(PDO::FETCH_ASSOC);
+              
                 foreach($listaAlunos as $alunos){ ?>
                     <option value="<?=$alunos['id'];?>"><?=$alunos['nome'];?></option>
                 <?php

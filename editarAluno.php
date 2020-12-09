@@ -2,10 +2,10 @@
 require 'config.php';
 
 $dados = [];
-$id = filter_input(INPUT_GET, 'id');
+$id = filter_input(INPUT_GET,'id');
 if($id){
     //buscando o id acima nessa consulta
-    $queryBuscaAluno = $conexaoPDO ->prepare("SELECT * FROM alunos WHERE id = :id");
+    $queryBuscaAluno = $conexaoPDO->prepare("SELECT * FROM alunos WHERE id = :id");
     $queryBuscaAluno->bindValue(':id', $id);
     $queryBuscaAluno->execute();
 
@@ -16,7 +16,7 @@ if($id){
         exit;
     }
 }else{
-    header("Location: listaAlunos.php");
+        header("Location: listaAlunos.php");
         exit;
 }
 ?>
