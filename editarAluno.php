@@ -1,6 +1,5 @@
 <?php
 require 'config.php';
-
 $dados = [];
 $id = filter_input(INPUT_GET,'id');
 if($id){

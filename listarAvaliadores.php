@@ -21,7 +21,7 @@ $queryAvaliadores = $conexaoPDO->query("SELECT * FROM avaliadores");
             <td><?=$avaliador['email'];?></td>
             <td>
                 <a href="editarAvaliador.php?id=<?=$avaliador['id'];?>">Editar</a>
-                <a href="">Excluir</a>
+                <a href="excluirAvaliador.php?id=<?=$avaliador['id'];?>" onclick="return confirm('CONFIRMAR EXCLUSÃO ?')">Excluir</a>
             </td>
         </tr>
     <?php endforeach;?>
