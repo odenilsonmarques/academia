@@ -1,0 +1,26 @@
+
+.contentFooter{
+    background-color: #FFF;
+    color: #1E90FF;
+  
+    margin-bottom: 90px;
+}
+p {
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: Cambria;
+}
+.panel-footer button{
+    border:none;
+
+}
+.glyphicon-heart{
+    font-size: 15px;
+    margin-top: 90px;
+    color:#e63888;
+}
+
+.glyphiconIcon .glyphicon{
+    font-size: 15px;
+    color: #FFF;
+}

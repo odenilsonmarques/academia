@@ -1,5 +1,6 @@
 <?php
 include 'config.php';
+$dados = [];
 $id = filter_input(INPUT_GET,'id');
 if($id){
     $queryBuscaPagamento = $conexaoPDO->prepare("SELECT * FROM pagamentos WHERE id = :id");

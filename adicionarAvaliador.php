@@ -2,7 +2,7 @@
 
 <form action="recebeActionAvaliador.php" method="POST">
     <label>NOME</label><br/>
-    <input type="text" name="nome"><br/><br/>
+    <input type="text" name="nome_avaliador"><br/><br/>
    
     <label>TELEFONE</label><br/>
     <input type="text" name="telefone"><br/><br/>

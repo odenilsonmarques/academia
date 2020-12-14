@@ -1,7 +1,7 @@
 <?php
 require 'config.php';
 
-$nome = filter_input(INPUT_POST,'nome');
+$nome_avaliador = filter_input(INPUT_POST,'nome');
 $telefone = filter_input(INPUT_POST,'telefone');
 $email = filter_input(INPUT_POST,'email');
 
@@ -11,8 +11,8 @@ if($nome && $telefone){
     $queryBuscaAvaliador->bindValue(':email', $email);
     $queryBuscaAvaliador->execute();
     if($queryBuscaAvaliador->rowCount() === 0){
-        $queryAddAvaliador = $conexaoPDO->prepare("INSERT INTO avaliadores(nome,telefone,email) VALUES (:nome, :telefone, :email)");
-        $queryAddAvaliador->bindValue(':nome', $nome);
+        $queryAddAvaliador = $conexaoPDO->prepare("INSERT INTO avaliadores(nome_avaliador,telefone,email) VALUES (:nome_avaliador, :telefone, :email)");
+        $queryAddAvaliador->bindValue(':nome_avaliador', $nome_avaliador);
         $queryAddAvaliador->bindValue(':telefone', $telefone);
         $queryAddAvaliador->bindValue(':email', $email);
         $queryAddAvaliador->execute();

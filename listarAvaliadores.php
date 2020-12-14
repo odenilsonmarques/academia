@@ -16,7 +16,7 @@ $queryAvaliadores = $conexaoPDO->query("SELECT * FROM avaliadores");
     </tr>
     <?php foreach ($listaAvaliadores as $avaliador): ?>
         <tr>
-            <td><?=$avaliador['nome'];?></td>
+            <td><?=$avaliador['nome_avaliador'];?></td>
             <td><?=$avaliador['telefone'];?></td>
             <td><?=$avaliador['email'];?></td>
             <td>

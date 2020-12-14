@@ -1,0 +1,60 @@
+.contentBody{
+    background-color:none; 
+    margin-top: 150px;
+}
+.contatos{
+    border:1px solid thistle;
+    border-radius: 25px;
+    background-color:#e63888;
+}
+.glyphicon{
+    color:lightskyblue;
+    font-size:50px;
+    margin-top: 2%;
+}
+h2{
+    color:lightskyblue;
+}
+th{
+    font-size: 17px;
+    color:#1E90FF;
+}
+th .glyphicon{
+    font-size: 15px;
+    color:#1E90FF;
+}
+tr{
+    font-size: 17px;
+}
+li{
+    font-size: 17px;
+}
+
+.novoContato a{
+    color:#FFF;
+    font-size: 15px;
+    text-decoration: none;
+}
+.contatos a{
+    text-decoration: none;
+}
+
+p{
+    color:dodgerblue;
+    font-size:22px;
+    font-weight: bolder;
+}
+#msg{
+    color:#228B22;
+    font-size:20px;
+    font-weight: bolder;
+}
+.imgAgenda img{
+    width:30%;
+}
+
+.novoContato .glyphicon{
+    font-size: 18px;
+    color: #FFF;
+}
+

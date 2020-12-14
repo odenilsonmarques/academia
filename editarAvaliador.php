@@ -24,7 +24,7 @@ if($id){
     <input type="hidden" name="id" value="<?=$dados['id'];?>"/>
 
     <label>NOME</label><br/>
-    <input type="text" name="nome" value="<?=$dados['nome'];?>"><br/><br/>
+    <input type="text" name="nome" value="<?=$dados['nome_avaliador'];?>"><br/><br/>
    
     <label>TELEFONE</label><br/>
     <input type="text" name="telefone" value="<?=$dados['telefone'];?>"><br/><br/>
