@@ -23,29 +23,60 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#services">SERVIÇOS</a></li>
                     <li><a href="#portfolio">PORTIFÓLIO</a></li>
+                    <li><a href="#portfolio">PROFESSORES</a></li>
                     <li><a href="#about">SOBRE</a></li>
                     <li><a href="#contact">LOGIN</a></li>
                 </ul>
             </div>
         </div>
     </nav>
+
     <article>
-        <div class="container-fluid titulo">
+        <div class="container-fluid destaque">
             <div class="container">
+                <h3 class="text-center">Por que praticar exercícios físicos vai muito além da estética?</h3>
                 <div class="row">
-                    <div class="col-lg-4"></div>
-                    <div class="col-lg-4 text-center infoTitulo">
-                        <h2>Academia</h2> 
-                        <h1>VIGOR</h1>  
+                    <div class="col-lg-2 text-center subDestaque">
+                        <h4>MENOS ESTRESSE</h4> 
                     </div>
-                    <div class="col-lg-4"></div>
+                    <div class="col-lg-2 text-center subDestaque">
+                        <h4>MELHORA SEU HUMOR</h4>  
+                    </div>
+                    <div class="col-lg-2 text-center subDestaque">
+                        <h4>CORPO E MENTE EM EQUILÍBRIO</h4> 
+                    </div>
+                    <div class="col-lg-2 text-center subDestaque">
+                        <h4>AUTOESTIMA NAS ALTURAS</h4> 
+                    </div>
+                    <div class="col-lg-2 text-center subDestaque">
+                        <h4>MELHORA O RENDIMENTO NO TRABALHO</h4> 
+                    </div>
+                    <div class="col-lg-2 text-center subDestaque">
+                        <h4>CORPO MAIS FORTES</h4> 
+                    </div>
                 </div>
             </div>
         </div>
     </article>
     <section>
-        <div class="container">
-            <h3>Serviços</h3>
+        <div class="container-fluid portifolio">
+            <div class="container">
+                <h3>PORTIFÓLIO</h3>
+                <div class="row">
+                    <div class="col-lg-3 subPortifolio">
+                        <img src="assets/img/academia1.jpg" class="img-responsive">
+                    </div>
+                    <div class="col-lg-3 subPortifolio">
+                        <img src="assets/img/academia1.jpg" class="img-responsive">
+                    </div>
+                    <div class="col-lg-3 subPortifolio">
+                        <img src="assets/img/academia1.jpg" class="img-responsive">
+                    </div>
+                    <div class="col-lg-3 subPortifolio">
+                        <img src="assets/img/academia1.jpg" class="img-responsive">
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     <script type="text/javascript" src="assets/js/jquery-3.1.1.min.js"></script>
