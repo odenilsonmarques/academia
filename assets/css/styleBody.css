@@ -12,9 +12,7 @@
     font-size:50px;
     margin-top: 2%;
 }
-h2{
-    color:lightskyblue;
-}
+
 th{
     font-size: 17px;
     color:#1E90FF;
@@ -58,3 +56,19 @@ p{
     color: #FFF;
 }
 
+.titulo{
+    margin-top:90px;
+    background-color:none;
+    border:none;
+}
+.infoTitulo{
+    border:none;
+    border-radius: 120px;
+    height: 150px;
+    background-color:  #4B0082;
+    color:#FFF;
+}
+.infoTitulo h2, h1{
+    color:#FFF;
+
+}
