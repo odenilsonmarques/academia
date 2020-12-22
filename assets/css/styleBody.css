@@ -91,3 +91,28 @@ h3{
     border-radius: 10px;
     border: none;
 }
+
+.atividadeFisica{
+    background-color:none;
+    border:none;
+}
+.subAtividadeFisica img{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    height: 180px;
+    width: 240px;
+}
+
+.subAtividadeFisica h4{
+    color: #6c7cd0;
+    font-weight: bold;
+}
+.subAtividadeFisica p{
+    text-align: justify;
+    font-size: 14px;
+    color: #4B0082;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+

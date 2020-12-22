@@ -65,6 +65,7 @@
                 <div class="row">
                     <div class="col-lg-3 subPortifolio">
                         <img src="assets/img/academia1.jpg" class="img-responsive">
+                      
                     </div>
                     <div class="col-lg-3 subPortifolio">
                         <img src="assets/img/academia1.jpg" class="img-responsive">
@@ -74,6 +75,35 @@
                     </div>
                     <div class="col-lg-3 subPortifolio">
                         <img src="assets/img/academia1.jpg" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container-fluid atividadeFisica">
+            <div class="container">
+                <h3>NOSSAS ATIVIDADES</h3>
+                <div class="row">
+                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                        <img src="assets/img/ginastica04.png" class="img-responsive">
+                        <h4>GINÁSTICA</h4> 
+                        <p>A ginástica é um conceito que engloba modalidades competitivas e não competitivas e envolve a prática de uma série de movimentos exigentes de força, flexibilidade e coordenação motora para fins únicos de aperfeiçoamento físico e mental</p>
+                    </div>
+                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                        <img src="assets/img/musculo03.png" class="img-responsive  text-center">
+                        <h4>MUSCULAÇÃO</h4> 
+                        <p>A musculação é um treino de força que consiste no levantamento de pesos, seja com halteres ou aparelhos específicos. Seu objetivo é a hipertrofia dos músculos. Porém, a boa execução dos exercícios e alguns truques fazem a diferença para obter melhores resultados</p>
+                    </div>
+                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                        <img src="assets/img/funcional.png" class="img-responsive">
+                        <h4>FUNCIONAL</h4> 
+                        <p>O treinamento funcional tenta adaptar ou desenvolver exercícios que permitam aos indivíduos realizar as atividades da vida cotidiana com mais facilidade e sem lesões.</p>
+                    </div>
+                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                        <img src="assets/img/esteira.png" class="img-responsive">
+                        <h4>CÁRDIO</h4> 
+                        <p>O treino cardio é uma abreviação para o treinamento cardiorrespiratório. É responsável por proporcionar ao seu praticante adaptações cardiovasculares e respiratórias, que resultam em  maior resistência e diminuição do cansaço.</p>
                     </div>
                 </div>
             </div>
