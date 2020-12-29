@@ -21,8 +21,10 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#services">SERVIÇOS</a></li>
+                <li><a href="#portfolio">INICIO</a></li>
+                <li><a href="#services">TREINOS</a></li>
                     <li><a href="#portfolio">PORTIFÓLIO</a></li>
+                   
                     <li><a href="#portfolio">PROFESSORES</a></li>
                     <li><a href="#about">SOBRE</a></li>
                     <li><a href="#contact">LOGIN</a></li>
@@ -124,27 +126,27 @@
     <section>
         <div class="container-fluid atividadeFisica">
             <div class="container">
-                <h3><b>NOSSAS ATIVIDADES</b></h3>
+                <h3><b>TREINOS</b></h3>
                 <div class="row">
-                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                    <div class="col-lg-3 subAtividadeFisica text-center">
                         <img src="assets/img/ginastica04.png" class="img-responsive">
                         <h4><b>GINÁSTICA</b></h4> 
-                        <p>A ginástica é um conceito que engloba modalidades competitivas, e não competitivas e envolve a prática de uma série de movimentos exigentes de força, flexibilidade e coordenação motora para fins únicos de aperfeiçoamento físico e mental</p>
+                        <p>A ginástica é um esporte que envolve a prática de uma série de movimentos, esporte que requer força, flexibilidade e coordenação motora.</p>
                     </div>
-                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                    <div class="col-lg-3 subAtividadeFisica text-center">
                         <img src="assets/img/musculo03.png" class="img-responsive  text-center">
                         <h4>MUSCULAÇÃO</h4> 
-                        <p>A musculação é um treino de força que consiste no levantamento de pesos, seja com halteres ou aparelhos específicos.</p>
+                        <p>A musculação é Além de promover ganho de massa muscular, a perda de gordura, melhora a postura e promove a sensação de bem-estar.</p>
                     </div>
-                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                    <div class="col-lg-3 subAtividadeFisica text-center">
                         <img src="assets/img/funcional.png" class="img-responsive">
                         <h4>FUNCIONAL</h4> 
-                        <p>O treinamento funcional tenta adaptar ou desenvolver exercícios que permitam aos indivíduos realizar as atividades da vida cotidiana com mais facilidade e sem lesões.</p>
+                        <p>O treinamento funcional permite aos indivíduos realizar as atividades da vida cotidiana com mais facilidade e sem lesões.</p>
                     </div>
-                    <div class="col-lg-3 subAtividadeFisica text-center ">
+                    <div class="col-lg-3 subAtividadeFisica text-center">
                         <img src="assets/img/esteira.png" class="img-responsive">
                         <h4>CÁRDIO</h4> 
-                        <p>O treino cardio é uma abreviação para o treinamento cardiorrespiratório. É responsável por proporcionar ao seu praticante adaptações cardiovasculares e respiratórias, que resultam em  maior resistência e diminuição do cansaço.</p>
+                        <p>O treinamento cárdio proporciona  melhor adaptações cardiovasculares e respiratórias, que resultam em  maior resistência.</p>
                     </div>
                 </div>
             </div>

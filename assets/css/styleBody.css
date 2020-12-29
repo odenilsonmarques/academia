@@ -36,13 +36,6 @@ li{
 .contatos a{
     text-decoration: none;
 }
-
-p{
-    color:dodgerblue;
-    font-size:22px;
-    font-weight: bolder;
-    font-family: sans-serif;
-}
 #msg{
     color:#228B22;
     font-size:20px;
@@ -75,8 +68,15 @@ p{
     color:#FFF;
     margin-top: 45px;
 }
-h3{
+.destaque h3{
     color:#6c7cd0;
+    
+}
+.portifolio h3{
+    color:#6c7cd0;
+}
+.atividadeFisica h3{
+    color:#4B0082 ;
     
 }
 
@@ -107,15 +107,18 @@ h3{
 }
 
 .subAtividadeFisica h4{
-    color: #6c7cd0;
+    padding: 5px;
+    color: #FFF;
     font-weight: bold;
+    background:#4B0082;
+    border-radius: 10px;
 }
 .subAtividadeFisica p{
     text-align: justify;
     font-size: 14px;
     color: #4B0082;
     font-family: Arial, Helvetica, sans-serif;
-    border:none;
+    font-weight: bold;
 }
 .carousel-indicators{
     margin-top: 5px;
@@ -123,7 +126,7 @@ h3{
     position: relative; 
 }
 .carousel-indicators .ponto{
-    background-color: #4B0082;
+    background-color: #6c7cd0;
     width: 27px;
     height: 15px;
 }
