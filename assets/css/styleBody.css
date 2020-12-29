@@ -41,6 +41,7 @@ p{
     color:dodgerblue;
     font-size:22px;
     font-weight: bolder;
+    font-family: sans-serif;
 }
 #msg{
     color:#228B22;
@@ -76,11 +77,13 @@ p{
 }
 h3{
     color:#6c7cd0;
+    
 }
 
 .portifolio{
     background-color:none;
     border:none;
+   
 }
 .subPortifolio{
     margin-top: 40px;
@@ -112,7 +115,18 @@ h3{
     font-size: 14px;
     color: #4B0082;
     font-family: Arial, Helvetica, sans-serif;
+    border:none;
 }
-    
+.carousel-indicators{
+    margin-top: 5px;
+    border:none;
+    position: relative; 
+}
+.carousel-indicators .ponto{
+    background-color: #4B0082;
+    width: 27px;
+    height: 15px;
+}
+
 
 

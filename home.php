@@ -34,7 +34,7 @@
     <article>
         <div class="container-fluid destaque">
             <div class="container">
-                <h3 class="text-center">Por que praticar exercícios físicos vai muito além da estética?</h3>
+                <h3 class="text-center"><b>Por que praticar exercícios físicos vai muito além da estética?</b></h3>
                 <div class="row">
                     <div class="col-lg-2 text-center subDestaque">
                         <h4>MENOS ESTRESSE</h4> 
@@ -58,42 +58,83 @@
             </div>
         </div>
     </article>
+
+
     <section>
         <div class="container-fluid portifolio">
             <div class="container">
-                <h3>PORTIFÓLIO</h3>
+                <h3><b>PORTIFÓLIO</b></h3>
                 <div class="row">
-                    <div class="col-lg-3 subPortifolio">
-                        <img src="assets/img/academia1.jpg" class="img-responsive">
-                      
-                    </div>
-                    <div class="col-lg-3 subPortifolio">
-                        <img src="assets/img/academia1.jpg" class="img-responsive">
-                    </div>
-                    <div class="col-lg-3 subPortifolio">
-                        <img src="assets/img/academia1.jpg" class="img-responsive">
-                    </div>
-                    <div class="col-lg-3 subPortifolio">
-                        <img src="assets/img/academia1.jpg" class="img-responsive">
+                    <div id="carouselSlide" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                                <div class="col-lg-3 subPortifolio">
+                                    <img src="assets/img/academia1.jpg" class="img-responsive">
+                                </div>
+                            </div>
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselSlide" data-slide-to="0" class="active ponto"></li>
+                                <li data-target="#carouselSlide" data-slide-to="1" class="ponto"></li>
+                                 <li data-target="#carouselSlide" data-slide-to="2" class="ponto"></li>
+                            </ol>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section>
         <div class="container-fluid atividadeFisica">
             <div class="container">
-                <h3>NOSSAS ATIVIDADES</h3>
+                <h3><b>NOSSAS ATIVIDADES</b></h3>
                 <div class="row">
                     <div class="col-lg-3 subAtividadeFisica text-center ">
                         <img src="assets/img/ginastica04.png" class="img-responsive">
-                        <h4>GINÁSTICA</h4> 
-                        <p>A ginástica é um conceito que engloba modalidades competitivas e não competitivas e envolve a prática de uma série de movimentos exigentes de força, flexibilidade e coordenação motora para fins únicos de aperfeiçoamento físico e mental</p>
+                        <h4><b>GINÁSTICA</b></h4> 
+                        <p>A ginástica é um conceito que engloba modalidades competitivas, e não competitivas e envolve a prática de uma série de movimentos exigentes de força, flexibilidade e coordenação motora para fins únicos de aperfeiçoamento físico e mental</p>
                     </div>
                     <div class="col-lg-3 subAtividadeFisica text-center ">
                         <img src="assets/img/musculo03.png" class="img-responsive  text-center">
                         <h4>MUSCULAÇÃO</h4> 
-                        <p>A musculação é um treino de força que consiste no levantamento de pesos, seja com halteres ou aparelhos específicos. Seu objetivo é a hipertrofia dos músculos. Porém, a boa execução dos exercícios e alguns truques fazem a diferença para obter melhores resultados</p>
+                        <p>A musculação é um treino de força que consiste no levantamento de pesos, seja com halteres ou aparelhos específicos.</p>
                     </div>
                     <div class="col-lg-3 subAtividadeFisica text-center ">
                         <img src="assets/img/funcional.png" class="img-responsive">
