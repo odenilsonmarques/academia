@@ -162,50 +162,42 @@
                             <img src="assets/img/personal.jpg" class="img-responsive img-circle">
                             <div class="panel-body">PERSONAL TREINER </div> 
                             <div class="panel-footer">
-                                <ul>
-                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
-                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
-                                </ul>
+                                <p><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</p>
+                                <p><span class="glyphicon glyphicon-home"></span> Universidade de São Paulo</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-lg-3  subProfessor text-center">
                         <div class="panel panel-info">
-                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <div class="panel-heading">BIANCA MARIA</div>
                             <img src="assets/img/personal.jpg" class="img-responsive img-circle">
                             <div class="panel-body">PERSONAL TREINER</div> 
                             <div class="panel-footer">
-                                <ul>
-                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
-                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
-                                </ul>
+                                <p><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</p>
+                                <p><span class="glyphicon glyphicon-home"></span> Universidade de São Paulo</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3  subProfessor  text-center">
                         <div class="panel panel-info">
-                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <div class="panel-heading">FREDERICO ARAÚJO</div>
                             <img src="assets/img/personal.jpg" class="img-responsive img-circle">
                             <div class="panel-body">PERSONAL TREINER </div> 
                             <div class="panel-footer">
-                                <ul>
-                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
-                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
-                                </ul>
+                                <p><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</p>
+                                <p><span class="glyphicon glyphicon-home"></span> Universidade de São Paulo</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3  subProfessor text-center">
                         <div class="panel panel-info">
-                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <div class="panel-heading">ANA PATRICIA</div>
                             <img src="assets/img/personal.jpg" class="img-responsive img-circle">
                             <div class="panel-body">PERSONAL TREINER </div> 
                             <div class="panel-footer">
-                                <ul>
-                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
-                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
-                                </ul>
+                                <p><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</p>
+                                <p><span class="glyphicon glyphicon-home"></span> Universidade de São Paulo</p>
                             </div>
                         </div>
                     </div>
