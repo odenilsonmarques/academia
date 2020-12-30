@@ -61,7 +61,6 @@
         </div>
     </article>
 
-
     <section>
         <div class="container-fluid portifolio">
             <div class="container">
@@ -147,6 +146,69 @@
                         <img src="assets/img/esteira.png" class="img-responsive">
                         <h4>CÁRDIO</h4> 
                         <p>O treinamento cárdio proporciona  melhor adaptações cardiovasculares e respiratórias, que resultam em  maior resistência.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container-fluid professores">
+            <div class="container">
+                <h3><b>PROFESSORES</b></h3>
+                <div class="row">
+                    <div class="col-lg-3 subProfessores text-center">
+                        <div class="panel panel-default ">
+                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <img src="assets/img/personal.jpg" class="img-responsive img-circle">
+                            <div class="panel-body">PERSONAL TREINER </div> 
+                            <div class="panel-footer">
+                                <ul>
+                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
+                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3  subProfessores text-center">
+                        <div class="panel panel-default ">
+                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <img src="assets/img/personal.jpg" class="img-responsive img-circle">
+                            <div class="panel-body">PERSONAL TREINER </div> 
+                            <div class="panel-footer">
+                                <ul>
+                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
+                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3  subProfessores  text-center">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <img src="assets/img/personal.jpg" class="img-responsive img-circle">
+                            <div class="panel-body">PERSONAL TREINER </div> 
+                            <div class="panel-footer">
+                                <ul>
+                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
+                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3  subProfessores text-center">
+                        <div class="panel panel-default ">
+                            <div class="panel-heading">ODENILSON MARQUES</div>
+                            <img src="assets/img/personal.jpg" class="img-responsive img-circle">
+                            <div class="panel-body">PERSONAL TREINER </div> 
+                            <div class="panel-footer">
+                                <ul>
+                                    <li><span class="glyphicon glyphicon-education"></span> Graduação em Educação Física</li>
+                                    <li><span class="glyphicon glyphicon-education"></span> Universidade de São Paulo</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

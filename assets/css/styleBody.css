@@ -76,14 +76,14 @@ li{
     color:#6c7cd0;
 }
 .atividadeFisica h3{
-    color:#4B0082 ;
-    
+    color:#4B0082 ; 
 }
-
+.professores h3{
+    color:#4B0082 ; 
+}
 .portifolio{
     background-color:none;
     border:none;
-   
 }
 .subPortifolio{
     margin-top: 40px;
@@ -120,6 +120,17 @@ li{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
+
+.professor{
+    background-color:none;
+    border:none;
+}
+.subProfessor{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
 .carousel-indicators{
     margin-top: 5px;
     border:none;
@@ -131,5 +142,11 @@ li{
     height: 15px;
 }
 
+.text-center .img-responsive{
+    margin: 0 auto;
+    margin-top:10px;
+}
 
-
+ul, li{
+    text-decoration:none;
+}
